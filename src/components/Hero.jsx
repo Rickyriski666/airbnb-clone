@@ -5,8 +5,8 @@ export default function Hero() {
         <img src="public\hero.png" alt="" />
       </div>
       <div className="my-10">
-        <h1 className="text-xl font-semibold">Online Experiences</h1>
-        <p className="text-sm">
+        <h1 className="text-4xl font-semibold mb-4">Online Experiences</h1>
+        <p className="text-sm w-72">
           Join unique interactive activities led by one-of-a-kind hosts—all
           without leaving home.
         </p>
